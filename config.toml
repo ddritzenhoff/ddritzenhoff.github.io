@@ -1,0 +1,4 @@
+baseURL = 'https://ddritzenhoff.github.io/'
+languageCode = 'en-us'
+title = 'Dominik Ritzenhoff'
+theme = 'ritzy'
