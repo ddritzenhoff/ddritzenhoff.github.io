@@ -4,9 +4,11 @@ date: 2023-01-26T16:21:07-05:00
 draft: false
 ---
 
-Candidate for Master's in Computer Science from the Technische Universität München (2023 - 2025) and completed Bachelor's in Computer Engineering and Computer Science from Northeastern University (2018 - 2022). I just want to be excited by technology and circumnavigate the globe by sailboat.
+Currently a candidate for a Master's in Computer Science from the Technische Universität München (2023 - 2025) and have a completed Bachelor's in Computer Engineering and Computer Science from Northeastern University (2018 - 2022).
 
-previously I've worked at...
+Right now, I just want to be excited by technology and circumnavigate the globe by sailboat.
+
+and previously I've worked at...
 
 [starry](https://starry.com/), building communication control and configuration software and also low level micro controller software
 
