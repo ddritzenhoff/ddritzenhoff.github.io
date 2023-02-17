@@ -18,8 +18,7 @@ draft: false
 
 [7] I've talked to many people who've gone to different universities, and I was always amazed at hearing how different of a culture their schools had to mine. Northeastern, because of the co-op program, tends to attract many job-oriented students. There are exceptions to every rule, but I thought the people here were for the most part very straight-laced and hard working.
 
-[8] Northeastern has a shitty name! I wish it were more unique, but I suppose it fits the ethos of the school well. It gets straight to the point.
+[8] The quintessential Northeastern student is from New Jersey and wears Canada Goose jackets in the winter. I'm not sure why, but that's just the way it is.
 
-[9] The quintessential Northeastern student is from New Jersey and wears Canada Goose jackets in the winter. I'm not sure why, but that's just the way it is.
-
-[10] In the summer of 2022, I was sitting in a cafe, and a couple came up to me asking if their daughter should attend were she to get in. My truthful answer was that she should go to the school that gives her the best deal. I strongly believe it's up to you to make the most out of your experience and that the costs of attending most universities in the US are prohibitively expensive, which make them not worth attending.
+[9] In the summer of 2022, I was sitting in a cafe, and a couple came up to me asking if their daughter should attend were she to get in. My truthful answer was that she should go to the school that gives her the best deal. I strongly believe it's up to you to make the most out of your experience and that the costs of attending most universities in the US are prohibitively expensive, which make them not worth attending. That being said, I had a really positive experience here, and I think it's a great choice. I changed so much as a person living in Boston and taking classes here. There are so many opportunities, so many students, the esplanade, Cambridge, bike lanes, etc. Northeastern gives you
+one of the best 'playgrounds' you could ask for as a young adult, and for that I'm eternally grateful :)
