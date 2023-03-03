@@ -19,8 +19,7 @@ form grids similar to graph paper! My brain nearly exploded the first time I saw
 subtlety and ingenuity. As I was often dealing with graphs during my undergraduate studies, this feature came in clutch many times. I cannot rave about this product more. It's flawless.
 
 [3] Kuru Toga + Stabilo Fineliner Pens:
-I don't really know when I became so anal about my notetaking equipment, but here I am. To round out the Kokuyo
-notebooks, I really love using the Kuru Toga and the Stabilo Fineliner Pens. The Kuru Toga is my 'daily driver',
+To round out the Kokuyo Notebooks, I really love using the Kuru Toga and the Stabilo Fineliner Pens. The Kuru Toga is my 'daily driver',
 and its unusual quirk is that it has a mechanism to rotate the lead every time you lift up the pencil, say, to write a new character or word. The idea here is that the lead will never have a sharp edge and will therefore maintain a consistent thickness, which
 makes for cleaner-looking notes. My handwriting looks like chicken scratch, so I'm not sure how useful
 this is for me, but I'm a fan of the idea! Regarding the Stabilo pens, I picked them up during my gap year in Germany, and I love them for their very fine tips and nice colors.
