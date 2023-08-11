@@ -7,6 +7,8 @@ draft: false
 [1] Audio Technica Headphones:
 These are my bread and butter. I mean really, they're absolutely brilliant. I got my current pair in 2016, and I've only had to deal with a flaky head cushion and replaced ear covers. Even after all these years, the headphones keep producing a great sound. They're definitely not the listening devices to be traveling around with -- that's a role best fit for airpods -- but they're ultra-reliable and are comfortable to wear for hours on end. I cannot recommend these enough.
 
+![image](images/ath-m50x_01a.png)
+
 [2] Kokuyo Campus Notebook:
 A few years ago, I swore to myself that if I could, I would only buy something from
 Japan, Germany, or Switzerland because (I think) there's a cultural inclination towards the practice of being precise, and I've already had
@@ -17,6 +19,8 @@ relatively flat when opened. Second, the quality of the paper is phenomenal as i
 the notebook is lined, which makes it great for writing, but it also has these tiny dots along each line, which
 form grids similar to graph paper! My brain nearly exploded the first time I saw this feature because of its
 subtlety and ingenuity. As I was often dealing with graphs during my undergraduate studies, this feature came in clutch many times. I cannot rave about this product more. It's flawless.
+
+![image](images/kokuyo-campus.jpeg)
 
 [3] Kuru Toga + Stabilo Fineliner Pens:
 To round out the Kokuyo Notebooks, I really love using the Kuru Toga and the Stabilo Fineliner Pens. The Kuru Toga is my 'daily driver',
@@ -29,6 +33,8 @@ I found this old steel-lugged Fuji City Bike that my mom used in her college day
 year, and I proceeded to immediately fall in love and convert it to a single-speed. A lot of work went into optimizing the bike,
 and it was the catalyst for me exploring so much of Boston and getting more into fitness. I really owe a lot to it, and I genuinely
 think it had a significant impact on who I am today.
+
+![image](images/bike.jpeg)
 
 [5] Overnight Oats:
 December of 2022 marks the 1.5 year anniversary of me eating overnight oats literally every morning for breakfast. This all started
