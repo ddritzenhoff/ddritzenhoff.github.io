@@ -2,3 +2,9 @@ baseURL = 'https://ddritzenhoff.github.io/'
 languageCode = 'en-us'
 title = 'Dominik Ritzenhoff'
 theme = 'ritzy'
+copyright = "2023 Dominik Ritzenhoff All rights reserved"
+rssLimit = 20
+
+[author]
+	name = "Dominik Ritzenhoff"
+	email = "ddritzenhoff@gmail.com"
