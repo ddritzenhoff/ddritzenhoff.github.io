@@ -1,5 +1,5 @@
 ---
-title: "Ten Material Things I Couldn't Live Without"
+title: "On some material items I particularly like and recommend"
 date: 2023-02-17T16:18:55-05:00
 draft: false
 ---
