@@ -1,5 +1,5 @@
 ---
-title: "TUM Personal Statement"
+title: "TUM personal statement"
 date: 2023-03-03T14:42:17-05:00
 draft: false
 ---

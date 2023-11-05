@@ -1,5 +1,5 @@
 ---
-title: "TUM Scientific Essay"
+title: "TUM scientific essay"
 date: 2023-03-03T14:48:30-05:00
 draft: false
 ---
