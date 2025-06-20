@@ -1,0 +1,13 @@
+baseURL = 'https://dominikritzenhoff.com'
+languageCode = 'en-us'
+title = 'Dominik Ritzenhoff'
+theme = 'ritzy'
+
+[params]
+  author = "Dominik Ritzenhoff"
+  description = "A dreamer"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
