@@ -5,4 +5,4 @@ draft: false
 originalYear: "2025"
 ---
 
-Contact: dominik [at] ritzenhoff [dot] com
+Contact: dominik [at] ritzenhoff [dot] dev
